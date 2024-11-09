@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+h2{
+    color: greenyellow;
+}
+.A{
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+.B{
+    color:brown;
+}
+.C{
+    color:brown;
+    font-size:9px;
+}
+.D{
+    color:brown;
+    font-style: italic;
+}
